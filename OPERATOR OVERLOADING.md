@@ -33,7 +33,6 @@ To write a Python program to perform division of two complex numbers using the b
 
 ```python
 
-
 class complex:
     def __init__(self, a, b):
         self.a = a
